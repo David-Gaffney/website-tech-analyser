@@ -1,0 +1,11 @@
+{
+  "name": "website-tech-analyser",
+  "version": "0.0.1",
+  "description": "Extension for discovering a websites tech stack",
+  "author": "David Gaffney",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
